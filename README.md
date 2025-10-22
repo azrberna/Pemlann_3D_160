@@ -4,7 +4,7 @@ Program ini dibuat menggunakan bahasa *Java* untuk menghitung *luas lingkaran* b
 
 ---
 
-## 📘 Deskripsi
+## 📘 Deskripsii
 
 Program akan meminta pengguna untuk memasukkan nilai jari-jari lingkaran, kemudian menghitung luas menggunakan rumus:
 
